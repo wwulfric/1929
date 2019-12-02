@@ -1,0 +1,14 @@
+---
+title: 大块头有大智慧
+start_date: 2018-03-06
+end_date: 2018-03-06
+event_type: movie
+event_name: 大块头有大智慧
+event_url: https://movie.douban.com/subject/1300359/
+memories:
+  - comment: 
+    author: 时九
+  - comment: 
+    author: 念九  
+location: 
+---
