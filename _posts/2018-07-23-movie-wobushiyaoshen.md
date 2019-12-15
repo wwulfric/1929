@@ -5,10 +5,11 @@ end_date: 2018-07-23
 event_type: movie
 event_name: 我不是药神
 event_url: https://movie.douban.com/subject/26752088/
+event_img: http://1929.lufeihaidao.top/douban_26752088.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

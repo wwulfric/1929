@@ -5,10 +5,11 @@ end_date: 2018-12-26
 event_type: movie
 event_name: 无双
 event_url: https://movie.douban.com/subject/26425063/
+event_img: http://1929.lufeihaidao.top/douban_26425063.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

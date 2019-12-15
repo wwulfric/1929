@@ -5,10 +5,11 @@ end_date: 2018-07-01
 event_type: movie
 event_name: 少数派报告
 event_url: https://movie.douban.com/subject/1297689/
+event_img: http://1929.lufeihaidao.top/douban_1297689.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

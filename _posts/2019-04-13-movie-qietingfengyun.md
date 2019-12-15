@@ -5,10 +5,11 @@ end_date: 2019-04-13
 event_type: movie
 event_name: 窃听风云
 event_url: https://movie.douban.com/subject/3412882/
+event_img: http://1929.lufeihaidao.top/douban_3412882.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

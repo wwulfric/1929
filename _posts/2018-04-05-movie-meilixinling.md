@@ -5,10 +5,11 @@ end_date: 2018-04-05
 event_type: movie
 event_name: 美丽心灵
 event_url: https://movie.douban.com/subject/1306029/
+event_img: http://1929.lufeihaidao.top/douban_1306029.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

@@ -5,10 +5,11 @@ end_date: 2017-09-08
 event_type: movie
 event_name: 纵横四海
 event_url: https://movie.douban.com/subject/1295409/
+event_img: http://1929.lufeihaidao.top/douban_1295409.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

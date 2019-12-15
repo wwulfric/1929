@@ -5,10 +5,11 @@ end_date: 2018-10-05
 event_type: movie
 event_name: 动物世界
 event_url: https://movie.douban.com/subject/26925317/
+event_img: http://1929.lufeihaidao.top/douban_26925317.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 湖州
 ---

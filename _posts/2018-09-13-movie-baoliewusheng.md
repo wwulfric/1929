@@ -5,10 +5,11 @@ end_date: 2018-09-13
 event_type: movie
 event_name: 暴裂无声
 event_url: https://movie.douban.com/subject/26647117/
+event_img: http://1929.lufeihaidao.top/douban_26647117.png
 memories:
   - comment: 
     author: 时九
   - comment: 
-    author: 念九  
+    author: 念九
 location: 
 ---

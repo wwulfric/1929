@@ -1,3 +1,9 @@
+PATH
+  remote: themes
+  specs:
+    blog1929 (0.1.0)
+      jekyll (~> 3.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -243,8 +249,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  blog1929!
   github-pages
-  minima (~> 2.0)
 
 BUNDLED WITH
    1.17.2

@@ -5,10 +5,11 @@ end_date: 2018-06-25
 event_type: movie
 event_name: 天龙八部
 event_url: https://movie.douban.com/subject/1863941/
+event_img: http://1929.lufeihaidao.top/douban_1863941.png
 memories:
   - comment: 
     author: 时九
   - comment: 开始一起看电视剧啦
-    author: 念九  
+    author: 念九
 location: 
 ---
