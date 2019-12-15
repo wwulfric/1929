@@ -6,6 +6,7 @@ event_type: movie
 event_name: 心花路放
 event_url: https://movie.douban.com/subject/25717233/
 event_img: http://1929.lufeihaidao.top/douban_25717233.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_25717233.jpeg
 memories:
   - comment: 
     author: 时九

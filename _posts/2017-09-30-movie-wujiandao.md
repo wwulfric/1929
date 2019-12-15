@@ -6,6 +6,7 @@ event_type: movie
 event_name: 无间道
 event_url: https://movie.douban.com/subject/1307914/
 event_img: http://1929.lufeihaidao.top/douban_1307914.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1307914.jpeg
 memories:
   - comment: 
     author: 时九

@@ -6,6 +6,7 @@ event_type: movie
 event_name: 烈日灼心
 event_url: https://movie.douban.com/subject/24719063/
 event_img: http://1929.lufeihaidao.top/douban_24719063.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_24719063.jpeg
 memories:
   - comment: 
     author: 时九

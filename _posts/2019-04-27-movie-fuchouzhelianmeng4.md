@@ -6,6 +6,7 @@ event_type: movie
 event_name: 复仇者联盟4
 event_url: https://movie.douban.com/subject/26100958/
 event_img: http://1929.lufeihaidao.top/douban_26100958.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26100958.jpeg
 memories:
   - comment: 
     author: 时九

@@ -6,6 +6,7 @@ event_type: movie
 event_name: 风声
 event_url: https://movie.douban.com/subject/3734112/
 event_img: http://1929.lufeihaidao.top/douban_3734112.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_3734112.jpeg
 memories:
   - comment: 
     author: 时九

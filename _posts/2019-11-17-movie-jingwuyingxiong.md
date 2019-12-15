@@ -6,6 +6,7 @@ event_type: movie
 event_name: 精武英雄
 event_url: https://movie.douban.com/subject/1292895/
 event_img: http://1929.lufeihaidao.top/douban_1292895.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1292895.jpeg
 memories:
   - comment: 
     author: 时九

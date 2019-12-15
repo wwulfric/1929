@@ -6,6 +6,7 @@ event_type: movie
 event_name: 黑社会2
 event_url: https://movie.douban.com/subject/1484760/
 event_img: http://1929.lufeihaidao.top/douban_1484760.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1484760.jpeg
 memories:
   - comment: 
     author: 时九

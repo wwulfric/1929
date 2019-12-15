@@ -6,6 +6,7 @@ event_type: movie
 event_name: 柳如是
 event_url: https://movie.douban.com/subject/6078003/
 event_img: http://1929.lufeihaidao.top/douban_6078003.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_6078003.jpeg
 memories:
   - comment: 
     author: 时九

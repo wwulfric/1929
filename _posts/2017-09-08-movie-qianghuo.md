@@ -6,6 +6,7 @@ event_type: movie
 event_name: 枪火
 event_url: https://movie.douban.com/subject/1300741/
 event_img: http://1929.lufeihaidao.top/douban_1300741.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1300741.jpeg
 memories:
   - comment: 
     author: 时九

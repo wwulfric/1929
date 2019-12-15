@@ -6,6 +6,7 @@ event_type: movie
 event_name: 人再囧途之泰囧
 event_url: https://movie.douban.com/subject/10574622/
 event_img: http://1929.lufeihaidao.top/douban_10574622.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_10574622.jpeg
 memories:
   - comment: 
     author: 时九

@@ -6,6 +6,7 @@ event_type: movie
 event_name: 人狼
 event_url: https://movie.douban.com/subject/1306255/
 event_img: http://1929.lufeihaidao.top/douban_1306255.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1306255.jpeg
 memories:
   - comment: 
     author: 时九

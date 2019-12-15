@@ -6,6 +6,7 @@ event_type: movie
 event_name: 蝙蝠侠-黑暗骑士崛起
 event_url: https://movie.douban.com/subject/3395373/
 event_img: http://1929.lufeihaidao.top/douban_3395373.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_3395373.jpeg
 memories:
   - comment: 
     author: 时九

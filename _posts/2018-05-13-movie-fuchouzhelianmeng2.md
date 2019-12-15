@@ -6,6 +6,7 @@ event_type: movie
 event_name: 复仇者联盟2
 event_url: https://movie.douban.com/subject/10741834/
 event_img: http://1929.lufeihaidao.top/douban_10741834.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_10741834.jpeg
 memories:
   - comment: 
     author: 时九

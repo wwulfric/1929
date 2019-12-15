@@ -6,6 +6,7 @@ event_type: movie
 event_name: 心迷宫
 event_url: https://movie.douban.com/subject/25917973/
 event_img: http://1929.lufeihaidao.top/douban_25917973.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_25917973.jpeg
 memories:
   - comment: 
     author: 时九

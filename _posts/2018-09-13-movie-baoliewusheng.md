@@ -6,6 +6,7 @@ event_type: movie
 event_name: 暴裂无声
 event_url: https://movie.douban.com/subject/26647117/
 event_img: http://1929.lufeihaidao.top/douban_26647117.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26647117.jpeg
 memories:
   - comment: 
     author: 时九

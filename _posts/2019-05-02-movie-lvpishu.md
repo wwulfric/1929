@@ -6,6 +6,7 @@ event_type: movie
 event_name: 绿皮书
 event_url: https://movie.douban.com/subject/27060077/
 event_img: http://1929.lufeihaidao.top/douban_27060077.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_27060077.jpeg
 memories:
   - comment: 
     author: 时九

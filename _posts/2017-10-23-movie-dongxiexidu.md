@@ -6,6 +6,7 @@ event_type: movie
 event_name: 东邪西毒
 event_url: https://movie.douban.com/subject/1292328/
 event_img: http://1929.lufeihaidao.top/douban_1292328.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1292328.jpeg
 memories:
   - comment: 
     author: 时九

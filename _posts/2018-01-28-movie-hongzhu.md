@@ -6,6 +6,7 @@ event_type: movie
 event_name: 红猪
 event_url: https://movie.douban.com/subject/1291838/
 event_img: http://1929.lufeihaidao.top/douban_1291838.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1291838.jpeg
 memories:
   - comment: 
     author: 时九

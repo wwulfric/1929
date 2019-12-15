@@ -6,6 +6,7 @@ event_type: movie
 event_name: 旺角卡门
 event_url: https://movie.douban.com/subject/1304624/
 event_img: http://1929.lufeihaidao.top/douban_1304624.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1304624.jpeg
 memories:
   - comment: 
     author: 时九

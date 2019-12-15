@@ -6,6 +6,7 @@ event_type: movie
 event_name: 无名之辈
 event_url: https://movie.douban.com/subject/27110296/
 event_img: http://1929.lufeihaidao.top/douban_27110296.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_27110296.jpeg
 memories:
   - comment: 
     author: 时九

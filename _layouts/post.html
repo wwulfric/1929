@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% if page.event_img %}
+  <img src='{{ page.event_img }}'/>
+{% endif %}
+
+
+{% for memory in page.memories %}
+
+  {% if memory.comment %}
+    {{ memory.comment }}
+    {{ memory.author }}
+  {% endif %}
+
+{% endfor %}

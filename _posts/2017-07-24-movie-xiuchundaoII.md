@@ -6,6 +6,7 @@ event_type: movie
 event_name: 绣春刀II
 event_url: https://movie.douban.com/subject/26270502/
 event_img: http://1929.lufeihaidao.top/douban_26270502.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26270502.jpeg
 memories:
   - comment: 
     author: 时九

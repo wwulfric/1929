@@ -6,6 +6,7 @@ event_type: movie
 event_name: 十万个冷笑话2
 event_url: https://movie.douban.com/subject/26759539/
 event_img: http://1929.lufeihaidao.top/douban_26759539.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26759539.jpeg
 memories:
   - comment: 
     author: 时九

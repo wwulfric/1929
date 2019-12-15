@@ -6,6 +6,7 @@ event_type: movie
 event_name: 地球最后的夜晚
 event_url: https://movie.douban.com/subject/26633257/
 event_img: http://1929.lufeihaidao.top/douban_26633257.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26633257.jpeg
 memories:
   - comment: 晚上一起在路边吃烧烤
     author: 时九

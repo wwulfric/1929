@@ -6,6 +6,7 @@ event_type: movie
 event_name: 雪国列车
 event_url: https://movie.douban.com/subject/3071441/
 event_img: http://1929.lufeihaidao.top/douban_3071441.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_3071441.jpeg
 memories:
   - comment: 
     author: 时九

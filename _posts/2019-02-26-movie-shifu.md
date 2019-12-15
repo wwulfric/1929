@@ -6,6 +6,7 @@ event_type: movie
 event_name: 师父
 event_url: https://movie.douban.com/subject/25919910/
 event_img: http://1929.lufeihaidao.top/douban_25919910.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_25919910.jpeg
 memories:
   - comment: 
     author: 时九

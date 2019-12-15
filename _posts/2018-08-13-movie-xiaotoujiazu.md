@@ -6,6 +6,7 @@ event_type: movie
 event_name: 小偷家族
 event_url: https://movie.douban.com/subject/27622447/
 event_img: http://1929.lufeihaidao.top/douban_27622447.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_27622447.jpeg
 memories:
   - comment: 是还想再看几遍的棒！
     author: 时九

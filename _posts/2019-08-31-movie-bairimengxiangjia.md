@@ -6,6 +6,7 @@ event_type: movie
 event_name: 白日梦想家
 event_url: https://movie.douban.com/subject/2133323/
 event_img: http://1929.lufeihaidao.top/douban_2133323.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_2133323.jpeg
 memories:
   - comment: 
     author: 时九

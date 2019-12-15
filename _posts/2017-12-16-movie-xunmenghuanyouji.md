@@ -6,6 +6,7 @@ event_type: movie
 event_name: 寻梦环游记
 event_url: https://movie.douban.com/subject/20495023/
 event_img: http://1929.lufeihaidao.top/douban_20495023.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_20495023.jpeg
 memories:
   - comment: 
     author: 时九

@@ -6,6 +6,7 @@ event_type: movie
 event_name: 星际穿越
 event_url: https://movie.douban.com/subject/1889243/
 event_img: http://1929.lufeihaidao.top/douban_1889243.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1889243.jpeg
 memories:
   - comment: 
     author: 时九

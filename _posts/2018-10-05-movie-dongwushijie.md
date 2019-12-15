@@ -6,6 +6,7 @@ event_type: movie
 event_name: 动物世界
 event_url: https://movie.douban.com/subject/26925317/
 event_img: http://1929.lufeihaidao.top/douban_26925317.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26925317.jpeg
 memories:
   - comment: 
     author: 时九

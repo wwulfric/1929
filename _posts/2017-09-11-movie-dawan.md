@@ -6,6 +6,7 @@ event_type: movie
 event_name: 大腕
 event_url: https://movie.douban.com/subject/1304022/
 event_img: http://1929.lufeihaidao.top/douban_1304022.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1304022.jpeg
 memories:
   - comment: 
     author: 时九

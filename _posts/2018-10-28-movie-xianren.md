@@ -6,6 +6,7 @@ event_type: movie
 event_name: 线人
 event_url: https://movie.douban.com/subject/4133814/
 event_img: http://1929.lufeihaidao.top/douban_4133814.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_4133814.jpeg
 memories:
   - comment: 
     author: 时九

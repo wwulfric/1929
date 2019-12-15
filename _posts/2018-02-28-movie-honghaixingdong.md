@@ -6,6 +6,7 @@ event_type: movie
 event_name: 红海行动
 event_url: https://movie.douban.com/subject/26861685/
 event_img: http://1929.lufeihaidao.top/douban_26861685.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26861685.jpeg
 memories:
   - comment: 
     author: 时九

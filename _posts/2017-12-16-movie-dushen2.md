@@ -6,6 +6,7 @@ event_type: movie
 event_name: 赌神2
 event_url: https://movie.douban.com/subject/1292506/
 event_img: http://1929.lufeihaidao.top/douban_1292506.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1292506.jpeg
 memories:
   - comment: 
     author: 时九

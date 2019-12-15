@@ -6,6 +6,7 @@ event_type: movie
 event_name: 妄想学生会
 event_url:  https://movie.douban.com/subject/5294732/
 event_img: http://1929.lufeihaidao.top/douban_5294732.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_5294732.jpeg
 memories:
   - comment: 关键词联想技能厉害啦
     author: 时九

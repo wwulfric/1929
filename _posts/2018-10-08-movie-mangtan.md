@@ -6,6 +6,7 @@ event_type: movie
 event_name: 盲探
 event_url: https://movie.douban.com/subject/6872273/
 event_img: http://1929.lufeihaidao.top/douban_6872273.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_6872273.jpeg
 memories:
   - comment: 
     author: 时九

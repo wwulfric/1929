@@ -6,6 +6,7 @@ event_type: movie
 event_name: 菊次郎的夏天
 event_url: https://movie.douban.com/subject/1293359/
 event_img: http://1929.lufeihaidao.top/douban_1293359.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_1293359.jpeg
 memories:
   - comment: 变强了的大人，都会做一个守护儿时的自己的梦吧。
     author: 时九

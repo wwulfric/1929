@@ -6,6 +6,7 @@ event_type: movie
 event_name: 我不是药神
 event_url: https://movie.douban.com/subject/26752088/
 event_img: http://1929.lufeihaidao.top/douban_26752088.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_26752088.jpeg
 memories:
   - comment: 
     author: 时九

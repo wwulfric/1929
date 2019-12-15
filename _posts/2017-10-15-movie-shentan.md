@@ -6,6 +6,7 @@ event_type: movie
 event_name: 神探
 event_url: https://movie.douban.com/subject/2027938/
 event_img: http://1929.lufeihaidao.top/douban_2027938.png
+poster_img: http://1929.lufeihaidao.top/douban_poster_2027938.jpeg
 memories:
   - comment: 
     author: 时九
