@@ -6,6 +6,8 @@ event_type: travel
 event_name: 去青海旅行-茶卡盐湖
 event_url: 
 event_img: 
+event_imgs:
+  - http://1929.lufeihaidao.top/travel_chakanyanhu_richu.JPG
 poster_img: http://1929.lufeihaidao.top/travel_poster_chakanyanhu.JPG-thumbnail600 
 memories:
   - comment: 

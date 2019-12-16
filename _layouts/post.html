@@ -6,14 +6,20 @@ layout: default
 
 {% if page.event_img %}
   <img src='{{ page.event_img }}'/>
+{% else %}
+  <img src='{{ page.poster_img }}'/>
 {% endif %}
 
 
 {% for memory in page.memories %}
 
   {% if memory.comment %}
-    {{ memory.comment }}
-    {{ memory.author }}
+    <blockquote class='clearfix'>
+        <p>{{ memory.comment }}</p>
+        <p class="pull-right">--- {{ memory.author }}</p>
+    </blockquote>
+    
+    
   {% endif %}
 
 {% endfor %}
