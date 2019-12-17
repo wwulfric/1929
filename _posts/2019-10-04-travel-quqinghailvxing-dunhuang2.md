@@ -6,7 +6,7 @@ event_type: travel
 event_name: 去青海旅行-敦煌2
 event_url: 
 event_img: 
-poster_img: http://1929.lufeihaidao.top/travel_poster_dunhuang.jpeg-thumbnail600
+poster_img: http://1929.lufeihaidao.top/travel_poster_dunhuang.jpeg
 memories:
   - comment: 
     author: 时九

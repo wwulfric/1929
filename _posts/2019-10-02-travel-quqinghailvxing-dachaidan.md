@@ -6,7 +6,7 @@ event_type: travel
 event_name: 去青海旅行-大柴旦
 event_url: 
 event_img:
-poster_img: http://1929.lufeihaidao.top/travel_poster_to_shuishangyadan.JPG-thumbnail600 
+poster_img: http://1929.lufeihaidao.top/travel_poster_to_shuishangyadan.JPG 
 memories:
   - comment: 
     author: 时九

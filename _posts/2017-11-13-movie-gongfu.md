@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_1291543.jpeg
 memories:
   - comment: 
     author: 时九
-  - comment: 
+  - comment: 「还有王法吗？还有法律吗」
     author: 念九
 location: 
 ---

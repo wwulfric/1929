@@ -12,5 +12,7 @@ memories:
     author: 时九
   - comment: 开启了你的香港电影之旅。再见警察。
     author: 念九
+  - comment: 再见警察。
+    author: 念九
 location: 
 ---

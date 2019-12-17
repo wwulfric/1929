@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_4876722.jpeg
 memories:
   - comment: 粗糙的浪漫主义
     author: 时九
-  - comment: 
+  - comment: 特别喜欢这种质朴的浪漫
     author: 念九
 location: 
 ---

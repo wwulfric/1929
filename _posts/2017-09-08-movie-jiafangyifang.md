@@ -12,5 +12,7 @@ memories:
     author: 时九
   - comment: 去北京的火车上看的。安利了冯小刚的喜剧。
     author: 念九
+  - comment: 「1997年过去了，我很怀念它」
+    author: 念九
 location: 北京
 ---

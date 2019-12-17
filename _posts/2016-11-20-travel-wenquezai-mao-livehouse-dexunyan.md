@@ -6,6 +6,7 @@ event_type: travel
 event_name: 文雀在 mao livehouse 的巡演
 event_url: 
 event_img: 
+poster_img: http://1929.lufeihaidao.top/travel_poster_wenque_maolivehouse.jpg
 memories:
   - comment: 
     author: 时九

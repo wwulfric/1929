@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_1294417.jpeg
 memories:
   - comment: 
     author: 时九
-  - comment: 
+  - comment: 林青霞、关之琳、李嘉欣
     author: 念九
 location: 
 ---

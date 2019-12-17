@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_24745500.jpeg
 memories:
   - comment: 
     author: 时九
-  - comment: 
+  - comment: 简单精致，感觉比2好
     author: 念九
 location: 
 ---

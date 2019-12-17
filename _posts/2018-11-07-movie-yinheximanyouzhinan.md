@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_1292267.jpeg
 memories:
   - comment: 
     author: 时九
-  - comment: 
+  - comment: Don't Panic.
     author: 念九
 location: 
 ---

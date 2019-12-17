@@ -2,24 +2,28 @@
 layout: default
 ---
 
-{{ content }}
+<div class="post typo">
 
-{% if page.event_img %}
-  <img src='{{ page.event_img }}'/>
-{% else %}
-  <img src='{{ page.poster_img }}'/>
-{% endif %}
-
-
-{% for memory in page.memories %}
-
-  {% if memory.comment %}
-    <blockquote class='clearfix'>
-        <p>{{ memory.comment }}</p>
-        <p class="pull-right">--- {{ memory.author }}</p>
-    </blockquote>
+    {% if page.event_img %}
+      <img src='{{ page.event_img }}'/>
+    {% else %}
+      <img src='{{ page.poster_img }}'/>
+    {% endif %}
     
     
-  {% endif %}
+    {% for memory in page.memories %}
+    
+      {% if memory.comment %}
+        <blockquote class='clearfix'>
+            <p>{{ memory.comment }}</p>
+            <p class="pull-right">--- {{ memory.author }}</p>
+        </blockquote>
+        
+        
+      {% endif %}
+    
+    {% endfor %}
 
-{% endfor %}
+    {{ content }}
+    
+</div>

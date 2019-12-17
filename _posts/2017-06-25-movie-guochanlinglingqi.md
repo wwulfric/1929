@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_1307739.jpeg
 memories:
   - comment: 哈哈哈哈周星驰真是天才啊
     author: 时九
-  - comment: 
+  - comment: 民族英雄-小平赠
     author: 念九
 location: 
 ---

@@ -10,7 +10,7 @@ poster_img: http://1929.lufeihaidao.top/douban_poster_1291583.jpeg
 memories:
   - comment: 
     author: 时九
-  - comment: 
+  - comment: 大学时每个假期都会回顾
     author: 念九
 location: 
 ---

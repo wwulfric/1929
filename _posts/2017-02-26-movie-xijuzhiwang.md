@@ -8,9 +8,9 @@ event_url: https://movie.douban.com/subject/1302425/
 event_img: http://1929.lufeihaidao.top/douban_1302425.png
 poster_img: http://1929.lufeihaidao.top/douban_poster_1302425.jpeg
 memories:
-  - comment: 
+  - comment: 我养你啊
     author: 时九
-  - comment: 
+  - comment: 我养你啊
     author: 念九
 location: 杭州
 ---
